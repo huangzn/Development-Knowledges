@@ -1,0 +1,24 @@
+前言：
+
+　　实际项目开发中，ajax使用很频繁，主要做一些数据验证，数据获取等需求。
+
+   1.springmvc+ajax交互方式：
+
+　　1.1.text类型数据
+
+　　　　前端：
+    
+   ```
+    $.ajax({
+          url:'${pageContext.request.contextPath}/zy/user/existLoginName',//请求地址
+          type:'post',//请求类型
+          data:{loginName:$("#loginName").val()},//传入后台数据
+          dataType:'text',//后台返回数据类型
+          success : function(data) {
+　　　　　　　　　alert("成功！");
+ 　　　　　 },
+          error:function(data){
+            　　alert("服务器异常！");
+          }
+　　　　})
+    ```
