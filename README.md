@@ -14,7 +14,7 @@
 
 [**1. Java**](https://github.com/huangzn/JavaKnowledge/tree/master/Java%20Base)
 
-[**2. Python **](https://github.com/huangzn/Soft-Knowledge/tree/master/Python)
+[**2. Python**](https://github.com/huangzn/Soft-Knowledge/tree/master/Python)
    
 ## 数据库 ##
 
