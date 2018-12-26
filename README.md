@@ -2,13 +2,13 @@
 
 ## 界面 ##
 
-**1. html**
+[**1. html**](https://github.com/huangzn/Soft-Knowledge/tree/master/HTML)
 
-**2. css**
+[**2. css**](https://github.com/huangzn/Soft-Knowledge/tree/master/CSS)
 
-**3. JavaScript**
+[**3. JavaScript**](https://github.com/huangzn/Soft-Knowledge/tree/master/JavaScript)
 
-**4. Jquery**
+[**4. Jquery**](https://github.com/huangzn/Soft-Knowledge/tree/master/Jquery)
 
 ## 程序 ##
 
@@ -16,20 +16,20 @@
    
 ## 数据库 ##
 
-**1. Oracle**
+[**1. Oracle**](https://github.com/huangzn/Soft-Knowledge/tree/master/Oracle)
 
-**2. MySql**
+[**2. MySql**](https://github.com/huangzn/Soft-Knowledge/tree/master/MySql)
 
 ## 中间件 ##
 
-**1. Tomcat**
+[**1. Tomcat**](https://github.com/huangzn/Soft-Knowledge/tree/master/Tomcat)
 
-**2. Jetty**
+[**2. Jetty**](https://github.com/huangzn/Soft-Knowledge/tree/master/Jetty)
 
 ## 操作系统 ##
 
-**1. Linux**
+[**1. Linux**](https://github.com/huangzn/Soft-Knowledge/tree/master/Linux)
 
-**2. Windows**
+[**2. Windows**](https://github.com/huangzn/Soft-Knowledge/tree/master/Windows)
 
 ## 网络 ##
