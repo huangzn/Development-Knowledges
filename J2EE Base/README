@@ -1,1 +1,10 @@
 
+
+
+```Java
+@RequestMapping(value="/index1")
+public String helloaction1(HttpServletRequest request){
+     System.out.println(request.getParameter("nnn"));  //获得前台name为nnn的元素的值
+     return "index";
+}
+```
